@@ -15,12 +15,12 @@ int main()
 
 
     //Biến thuộc kiểu số thực
-    int number2;   //int có độ chính xác thấp hơn double
+    int number2;
     double number2_1;
 
     //Khởi tạo
     number2 = 3.14;
-    number2_1 = 3.141592;
+    number2_1 = 6.28;
     
     //Biến thuộc kiểu ký tự
     char text;
